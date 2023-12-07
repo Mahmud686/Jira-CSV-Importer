@@ -1,0 +1,4 @@
+﻿Issue Type;Epic Name;Epic Color;Epic Link;Task-ID;Parent ID;Summary;Description;Priority;Original Estimate (in seconds);Remaining Estimate (in seconds);Components
+Epic;Project Management - PrkzZm;ghx-label-1;;6000;;Project Management - PrkzZm;Project Management - PrkzZm;Normal;;;Auftrag 11: Projekt
+Project-task;;;Project Management - PrkzZm;6001;;Scheduling and scheduling; ;Normal;7200;7200;Auftrag 11: Projekt
+Project-task;;;Project Management - PrkzZm;6002;;Cost planning and controlling; ;Normal;7200;7200;Auftrag 11: Projekt
